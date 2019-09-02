@@ -1,0 +1,1 @@
+Hay que hacer una app web conectada a una base de datos, con notificaciones, pre matricula y matricula de cursos, distintos tipos de usuarios y diferentes funciones que se otorgaran a mediados de setiembre, hay que usar mvc y github, además de hosting para la disponibilidada de la app 24/7
